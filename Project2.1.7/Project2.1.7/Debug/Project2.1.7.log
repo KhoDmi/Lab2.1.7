@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\Lenovo\source\repos\Project2.1.7\Project2.1.7\Main.cpp(1,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Lenovo\source\repos\Project2.1.7\Project2.1.7\Main.cpp(2,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Lenovo\source\repos\Project2.1.7\Project2.1.7\Main.cpp(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Lenovo\source\repos\Project2.1.7\Project2.1.7\Main.cpp(4,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Lenovo\source\repos\Project2.1.7\Project2.1.7\Main.cpp(54): warning C4715: intInpCheck: значение возвращается не при всех путях выполнения
+C:\Users\Lenovo\source\repos\Project2.1.7\Project2.1.7\Main.cpp(98): warning C4715: doubleInpCheck: значение возвращается не при всех путях выполнения
+C:\Users\Lenovo\source\repos\Project2.1.7\Project2.1.7\ODList.h(413): warning C4715: ODList<int>::remove_front: значение возвращается не при всех путях выполнения
+C:\Users\Lenovo\source\repos\Project2.1.7\Project2.1.7\ODList.h(413): warning C4715: ODList<double>::remove_front: значение возвращается не при всех путях выполнения
+C:\Users\Lenovo\source\repos\Project2.1.7\Project2.1.7\ODList.h(413): warning C4715: ODList<char>::remove_front: значение возвращается не при всех путях выполнения
+  Project2.1.7.vcxproj -> C:\Users\Lenovo\source\repos\Project2.1.7\Debug\Project2.1.7.exe
